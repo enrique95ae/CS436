@@ -7,8 +7,6 @@
  Class: CS436 (Intro to Networking)
  Instructor: Professor Springer.
  
- Programmed in C.
- 
  
  Purpose: to create a simple Web server capable of processing one request.
  The server will:
